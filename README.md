@@ -1,4 +1,4 @@
-# PDW (Product Web Scraper) - [0.0.1]
+# PDW (Product Web Scraper) - [0.1.0]
 ## Steps:
 
 - First clone the repository, enter it and then type on the console: `npm i`
